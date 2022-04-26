@@ -10,8 +10,8 @@ Partner Email: mm5hd@umsystem.edu
 ```
 ---
 ```
-Partner Name: 
-Partner Email: 
+Partner Name: Joshua Koni
+Partner Email: jsk8pd@mail.umkc.edu
 ```
 ---
 ```
